@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(lightblue 0%,lightgreen 100%);
+    font-family: sans-serif;
+}
+
+#result_object,#result_accuracy{
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    visibility: hidden;
+    color: black;
+}
+
+#camera,#result{
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.heading{
+    width: 80%;
+}
